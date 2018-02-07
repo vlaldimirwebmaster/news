@@ -1,0 +1,16 @@
+.news_delete_button{
+  float: right;
+  cursor: pointer;
+}
+
+.news_description{
+  margin-top: 15px;
+}
+
+.news_header {
+	clear: both;
+}
+
+.news_body{
+	clear: both;
+}
